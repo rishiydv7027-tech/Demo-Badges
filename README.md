@@ -10,14 +10,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Fetch API](https://img.shields.io/badge/Fetch%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-0262FF?style=for-the-badge&logo=axios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-29A6F6?style=for-the-badge&logo=json&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 
 
